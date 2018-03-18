@@ -25,11 +25,15 @@ PSD2UMG supports reimport. An appearance of Widget Blueprints can be changed wit
 
 #### You prepare a PSD file which is converted into an Widget Blueprint.
 
-Layer effects and shape layer are not supported.
+Layer styles and shape layer are not supported.
 
 8bitRGB format is only supported.
 
 You need to fix it.
+
+![SampleFile(.psdumg)](sample/SamplePSD.psdumg)
+
+![SampleFile(.psd)](sample/SamplePSD.psd)
 
 ![PSD](img/psd.png)
 
