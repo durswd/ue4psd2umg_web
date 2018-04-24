@@ -31,9 +31,9 @@ Layer styles and shape layer are not supported.
 
 You need to fix it.
 
-[SampleFile(.psdumg)](https://durswd.github.io/ue4psd2umg_web/sample/SamplePSD.psdumg)
+[SampleFile(.psdumg)](https://github.com/durswd/ue4psd2umg_web/releases/download/Samples/SamplePSD.psdumg)
 
-[SampleFile(.psd)](https://durswd.github.io/ue4psd2umg_web/sample/SamplePSD.psd)
+[SampleFile(.psd)](https://github.com/durswd/ue4psd2umg_web/releases/download/Samples/SamplePSD.psd)
 
 ![PSD](img/psd.png)
 
