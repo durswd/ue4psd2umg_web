@@ -141,3 +141,17 @@ PSD2UMG supports reimport.
 When you reimport .psdumg, an object(Image, Button, etc) whose name is same to imported layer's name are changed only apperance such as a position, image and so on. Other parameters are maintained.
 
 In addition, an object(Image, Button, etc) whose name does not exists in imported layer is not changed.
+
+## License
+
+This plugin is depends on
+
+```
+
+// psd.c
+//
+// Copyright (c) 2014 hkrn
+// Released under the MIT license
+// https ://opensource.org/licenses/mit-license.php
+
+```
